@@ -25,8 +25,6 @@ O sistema foi construído em **Python/Django** e tem como objetivo gerenciar dad
 - **JavaScript (opcional, para interações básicas)**
 
 ## Como executar o projeto
-
-## Clonar o repositório
 ```bash
 
 git clone https://github.com/usuario/SGEA.git
