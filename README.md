@@ -1,8 +1,9 @@
 # Trabalho DevWeb (SGEA)
 
 ## Desenvolvido por:
-Pedro Cezar Pires Henriques
-Ian Mensitieri
+- Pedro Cezar Pires Henriques
+- Ian Mensitieri
+- Gabriel Valentim
 
 **SGEA - Sistema de Gestão Escolar Acadêmica** desenvolvido como parte do trabalho da disciplina de Desenvolvimento Web.  
 O sistema foi construído em **Python/Django** e tem como objetivo gerenciar dados acadêmicos, como alunos, cursos, professores e turmas.
